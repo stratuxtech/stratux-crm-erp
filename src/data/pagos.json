@@ -1,0 +1,13 @@
+[
+  {
+    "id": "PG-TEST",
+    "date": "2026-09-08T04:00:00.000Z",
+    "category": "General",
+    "concept": "Test QA Webhook",
+    "receiverName": "Test Dev",
+    "method": "Transferencia",
+    "amount": 150,
+    "referrerNotified": false,
+    "createdAt": "2026-09-08T04:00:00.000Z"
+  }
+]

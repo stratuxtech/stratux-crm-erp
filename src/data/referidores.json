@@ -1,0 +1,66 @@
+[
+  {
+    "id": "REF-TEST",
+    "name": "Referidor Test",
+    "nickname": "Test",
+    "joinDate": "2026-09-04T00:00:00.000Z",
+    "email": "test@stratux.com",
+    "projectsCount": 0,
+    "totalEarned": 0,
+    "commissionRate": 10,
+    "contactInfo": "test@stratux.com"
+  },
+  {
+    "id": "REF-0002",
+    "name": "dsfasdfads",
+    "joinDate": "2026-09-04T00:00:00.000Z",
+    "whatsapp": "5914544445",
+    "email": "x@gmail.com",
+    "projectsCount": 0,
+    "totalEarned": 0,
+    "commissionRate": 10,
+    "contactInfo": "5914544445"
+  },
+  {
+    "id": "REF-0003",
+    "name": "adsfadsf",
+    "joinDate": "2026-09-04T04:00:00.000Z",
+    "whatsapp": "59144444444",
+    "projectsCount": 0,
+    "totalEarned": 0,
+    "commissionRate": 10,
+    "contactInfo": "59144444444"
+  },
+  {
+    "id": "REF-0004",
+    "name": "QA Referidor Automation",
+    "joinDate": "2026-09-08T04:00:00.000Z",
+    "email": "qa_automation@stratux.com",
+    "projectsCount": 0,
+    "totalEarned": 0,
+    "commissionRate": 10,
+    "contactInfo": "qa_automation@stratux.com"
+  },
+  {
+    "id": "REF-0005",
+    "name": "QA Referidor Automation",
+    "joinDate": "2026-09-08T04:00:00.000Z",
+    "email": "qa_automation@stratux.com",
+    "projectsCount": 0,
+    "totalEarned": 0,
+    "commissionRate": 10,
+    "contactInfo": "qa_automation@stratux.com"
+  },
+  {
+    "id": "REF-TEST-QA",
+    "name": "Referidor Prueba QA",
+    "nickname": "Test QA",
+    "joinDate": "2026-09-08T04:00:00.000Z",
+    "whatsapp": "77777777",
+    "email": "qa@test.com",
+    "projectsCount": 0,
+    "totalEarned": 0,
+    "commissionRate": 10,
+    "contactInfo": "77777777"
+  }
+]

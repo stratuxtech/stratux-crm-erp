@@ -1,0 +1,13 @@
+[
+  {
+    "id": "usr_stratux_admin_01",
+    "email": "stratux.tech@gmail.com",
+    "name": "Stratux Admin",
+    "role": "admin",
+    "passwordHash": "e65841298c1dff0aa862c71f0a764e0e0a1535c8d2222b0f4b71c7e9416d39a9625533e7c1b05cb645519514b978ceb48ef48092409bde2ae13e123aef56de98",
+    "salt": "5839684151a76e3e384865416f19cf26",
+    "status": "activo",
+    "createdAt": "2026-09-15T00:00:00.000Z",
+    "lastLoginAt": "2026-09-15T16:15:52.847Z"
+  }
+]

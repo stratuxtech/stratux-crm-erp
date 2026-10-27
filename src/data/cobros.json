@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CB-TEST",
+    "projectId": "PR-0001",
+    "date": "2026-09-08T04:00:00.000Z",
+    "method": "Transferencia",
+    "concept": "Test QA Cobro",
+    "grossAmount": 500,
+    "taxPercentage": 27,
+    "postTaxAmount": 365,
+    "referrerCommission": 0,
+    "stratuxCommission": 365,
+    "laborCost": 0,
+    "netAmount": 365,
+    "scale": "XP",
+    "createdAt": "2026-09-08T04:00:00.000Z"
+  }
+]
